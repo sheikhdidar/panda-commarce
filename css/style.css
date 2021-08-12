@@ -1,0 +1,37 @@
+body{
+    background-color:#E5E5E5; ;
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    width:113px;
+    height:auto;
+}
+.search-button{
+    width:508px;
+    height:auto;
+    border-radius: 66px;
+}
+.nav-link{
+    transition:.4s;
+}
+.nav-link:hover{
+    transform:scale(1.1);
+    background-color: blue;
+    padding:8px;
+    color:white;
+    font-weight: 700;
+    border-radius: 6px;
+}
+#product{
+    background-color: #FEEAE9;
+}
+.watch{
+    background-color: gold;
+}
+.purple{
+    background-color: purple;
+}
+.shoes{
+    background-color: blue;
+}
